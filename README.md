@@ -1,0 +1,1 @@
+<p><strong>PDoors</strong><br /><br />Adds Code Locks to "assets/prefabs/building/wall.frame.cell/wall.frame.cell.gate.prefab"<br />Then centers them on the handle.<br />Hides the Code Locks and Door Manipulator to players with out the correct permissions.<br /><br /><strong>Permissions:</strong><br />See Code Locks = PDoors.SeeCLock<br />See Door Manipulator = PDoors.SeeDMan</p>
